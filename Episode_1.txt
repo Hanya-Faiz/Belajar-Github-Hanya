@@ -1,0 +1,25 @@
+Ringkasan Episode-1, Apa itu Git?
+# VCS
+  Version Control System
+  Sistem yang menyimpan dan mengelola rekaman perubahan pada source code.
+
+# Git
+  Salah satu software yang bisa melakukan VCS.
+
+# Github
+  Website/Layanan berbasis cloud untuk mengelola Git.
+
+
+Istilah-istilah pada git
+- Repo = folder project yang akan dikerjakan 
+- commit = Rekaman / Snapshot dari repo
+- hash = penanda unik pada sebuah commit
+- checkout = berpindah ke sebuah commit
+- branch = cabang bebas dari sebuah commit
+- merge = menggabungkan beberapa brench
+- remote = sumber(github) yang memiliki repo
+- clone = mengambil repo dari remote (Github -> Lokal (PC/Laptop))
+- push = mengirimkan commit ke repo (Lokal -> Github)
+- pull = mengambil commit dari repo (Github -> Lokal)
+
+

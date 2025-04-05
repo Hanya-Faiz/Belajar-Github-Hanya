@@ -1,30 +1,51 @@
-# Penjelasan Playlist Git & GitHub - Web Programming UNPAS (WPU)
+# Rangkuman Materi Git & GitHub - Web Programming UNPAS (WPU)
 
-Repository ini berisi rangkuman, catatan, dan penjelasan dari video-video pada playlist **Git & GitHub** yang dibuat oleh **Web Programming UNPAS (WPU)**.
+Selamat datang di repository ini!
 
-Playlist tersebut dapat diakses melalui link berikut:  
-[https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&si=N_nuSd3RnxMv_A38](https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&si=N_nuSd3RnxMv_A38)
+Repository ini berisi **rangkuman penjelasan lengkap dan mudah dipahami** dari video-video dalam playlist YouTube **"Git & GitHub"** yang dibuat oleh **Web Programming UNPAS** (WPU) — yaitu channel yang dikelola oleh **Sandhika Galih**.
 
-## Tujuan
-
-- Membantu pemahaman pribadi terhadap konsep Git & GitHub.
-- Menjadi dokumentasi belajar berbasis video dari WPU.
-- Berbagi ilmu kepada siapa pun yang ingin belajar Git & GitHub secara terstruktur.
-
-## Konten dalam Repository
-
-- Ringkasan materi setiap video
-- Perintah Git yang sering digunakan (cheat sheet)
-- Penjelasan konsep dasar seperti commit, branch, merge, remote, dll.
-- Praktik penggunaan GitHub, seperti pull request, clone, dan repository management.
-
-## Credits
-
-Seluruh materi bersumber dari channel YouTube [Web Programming UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS) oleh **Sandhika Galih**.  
-Terima kasih telah membagikan ilmu secara gratis dan berkualitas!
-
+Playlist aslinya bisa ditonton di sini:  
+[https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf](https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
 
 ---
 
-**Catatan:** Repository ini tidak menggantikan video aslinya. Sangat disarankan untuk tetap menonton video agar mendapatkan penjelasan lengkap dan praktis.
+## Tujuan Repository Ini
 
+- Sebagai **catatan belajar pribadi** agar lebih memahami Git & GitHub secara bertahap.
+- Mempermudah pemula atau orang awam untuk belajar Git & GitHub dengan **bahasa yang sederhana**.
+- Menyediakan dokumentasi tertulis dari video untuk dibaca kapan saja tanpa harus menonton ulang.
+- Membagikan ilmu yang saya pelajari kepada siapa saja yang ingin mulai belajar versi kontrol.
+
+---
+
+## Apa yang Akan DiTemukan di Sini?
+
+- **Ringkasan materi tiap episode** dari playlist Git & GitHub WPU.
+- Penjelasan istilah Git dengan bahasa sehari-hari.
+- Contoh perintah Git yang umum digunakan (Git commands).
+- Penjelasan step-by-step dari proses instalasi hingga upload ke GitHub.
+
+Semua penjelasan ditulis dengan harapan bisa dimengerti bahkan oleh yang belum pernah menggunakan Git sekalipun.
+
+---
+
+## Cocok Untuk Siapa?
+
+- Pemula yang baru dengar tentang Git dan GitHub.
+- Mahasiswa yang sedang belajar pemrograman atau kerja kelompok.
+- Siapa pun yang ingin belajar cara menyimpan dan mengelola kode secara rapi dan aman.
+
+---
+
+## Credits
+
+- **Materi Asli oleh:** Sandhika Galih - Web Programming UNPAS  
+  Channel YouTube: [https://www.youtube.com/c/WebProgrammingUNPAS](https://www.youtube.com/c/WebProgrammingUNPAS)
+
+- **Rangkuman & Penulisan oleh:** Hanya  
+  Dibantu oleh **ChatGPT** dari OpenAI sebagai asisten penjelasan dan peringkas isi video agar mudah dimengerti oleh orang awam.
+
+---
+
+> Semoga bermanfaat untuk kamu yang sedang belajar Git & GitHub!  
+> Jangan lupa tetap tonton videonya langsung agar lebih paham lewat penjelasan visual.

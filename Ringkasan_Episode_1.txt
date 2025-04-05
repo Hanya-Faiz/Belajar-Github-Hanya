@@ -1,0 +1,40 @@
+Episode 1 - Apa itu Git?
+Link video: https://youtu.be/lTMZxWMjXQU?si=ZfJUymFk6QCjWTgA
+
+Apa itu VCS?
+VCS atau Version Control System adalah sistem yang membantu kita menyimpan dan melacak perubahan yang terjadi pada sebuah file, terutama file kode program.
+
+Bayangkan kamu sedang mengetik skripsi di Word. Setiap hari kamu menyimpan versi baru, seperti "Skripsi_fix1.docx", "Skripsi_fix2.docx", dst. Nah, VCS melakukan hal yang sama, tapi secara otomatis, rapi, dan bisa kembali ke versi manapun kapan saja.
+
+Apa itu Git?
+Git adalah salah satu software atau alat yang digunakan untuk menjalankan VCS. Dengan Git, kamu bisa:
+- Menyimpan riwayat perubahan proyek kamu.
+- Membuat "cabangan" (branch) untuk mencoba hal baru tanpa merusak versi utama.
+- Bekerja sama dengan orang lain dalam satu proyek tanpa saling menimpa pekerjaan masing-masing.
+
+Apa itu GitHub?
+GitHub adalah situs web tempat kita bisa menyimpan project Git kita secara online. Seperti Google Drive, tapi khusus untuk proyek Git.
+
+Dengan GitHub, kamu bisa:
+- Menyimpan cadangan project secara online.
+- Berkolaborasi dengan tim atau komunitas open source.
+- Menampilkan portofolio koding kamu kepada orang lain.
+
+Istilah-istilah penting dalam Git:
+
+- **Repo**: Folder proyek kamu. Bisa berisi file, gambar, kode, dll.
+- **Commit**: Setiap kali kamu menyimpan perubahan di Git, itu disebut "commit". Ibarat kamu bilang, “Oke, versi ini saya simpan.”
+- **Hash**: Kode unik dari setiap commit, seperti sidik jari yang berbeda-beda.
+- **Checkout**: Perintah untuk pindah ke commit tertentu atau ke cabang lain.
+- **Branch**: Jalur alternatif dari proyek utama. Cocok untuk coba fitur baru tanpa ganggu versi utama.
+- **Merge**: Menggabungkan branch ke dalam branch lain (biasanya ke branch utama).
+- **Remote**: Tempat penyimpanan project di internet, seperti GitHub.
+- **Clone**: Mengunduh project dari GitHub ke komputer kita.
+- **Push**: Mengirim perubahan dari komputer ke GitHub.
+- **Pull**: Mengambil update terbaru dari GitHub ke komputer.
+
+Kesimpulan:
+Git dan GitHub sangat membantu dalam mengelola dan menyimpan versi proyek kamu. Cocok untuk pemula maupun profesional, apalagi kalau kerja tim atau bikin proyek besar.
+
+Catatan:
+Ringkasan ini dibuat berdasarkan video dari channel Web Programming UNPAS oleh Sandhika Galih.

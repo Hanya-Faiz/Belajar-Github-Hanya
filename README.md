@@ -42,7 +42,7 @@ Semua penjelasan ditulis dengan harapan bisa dimengerti bahkan oleh yang belum p
 - **Materi Asli oleh:** Sandhika Galih - Web Programming UNPAS  
   Channel YouTube: [https://www.youtube.com/c/WebProgrammingUNPAS](https://www.youtube.com/c/WebProgrammingUNPAS)
 
-- **Rangkuman & Penulisan oleh:** @Hanya-Faiz (Muhammad Faizal) 
+- **Rangkuman & Penulisan oleh:** @Hanya-Faiz (Muhammad Faizal)
   Dibantu oleh **ChatGPT** dari OpenAI sebagai asisten penjelasan dan peringkas isi video agar mudah dimengerti oleh orang awam.
 
 ---

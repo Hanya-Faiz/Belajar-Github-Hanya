@@ -18,7 +18,7 @@ Playlist aslinya bisa ditonton di sini:
 
 ---
 
-## Apa yang Akan DiTemukan di Sini?
+## Apa yang Akan Ditemukan di Sini?
 
 - **Ringkasan materi tiap episode** dari playlist Git & GitHub WPU.
 - Penjelasan istilah Git dengan bahasa sehari-hari.

@@ -1,4 +1,4 @@
-Episode 1 - Apa itu Git?
+Episode 1 - Apa itu Git? 
 Link video: https://youtu.be/lTMZxWMjXQU?si=ZfJUymFk6QCjWTgA
 
 Apa itu VCS?

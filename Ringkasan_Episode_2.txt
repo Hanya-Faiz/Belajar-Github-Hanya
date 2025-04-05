@@ -1,0 +1,47 @@
+Episode 2 - Bekerja dengan GitHub
+Link video: https://youtu.be/Q3Id0DgcrXY
+
+Pendahuluan:
+Setelah memahami dasar-dasar Git dan menginstalnya di komputer, langkah berikutnya adalah mengenal GitHub. GitHub adalah platform berbasis cloud yang memungkinkan kita menyimpan dan mengelola proyek Git secara online, memfasilitasi kolaborasi dengan orang lain.
+
+Langkah-langkah:
+
+1. **Membuat Akun GitHub:**
+   - Buka situs web GitHub di https://github.com/.
+   - Klik tombol "Sign up" atau "Daftar".
+   - Isi informasi yang diperlukan seperti nama pengguna (username), alamat email, dan kata sandi.
+   - Setelah mendaftar, verifikasi akun melalui email yang dikirim oleh GitHub.
+
+2. **Membuat Repository Baru:**
+   - Setelah masuk ke akun GitHub, klik ikon "+" di sudut kanan atas dan pilih "New repository".
+   - Isi nama repository (misalnya, "Belajar-Git").
+   - Tambahkan deskripsi singkat tentang proyek (opsional).
+   - Pilih opsi "Public" jika ingin repository dapat dilihat oleh semua orang, atau "Private" jika ingin hanya Anda yang dapat mengaksesnya.
+   - Centang opsi "Initialize this repository with a README" untuk membuat file README.md secara otomatis.
+   - Klik tombol "Create repository" untuk menyelesaikan proses.
+
+3. **Menyalin Repository ke Komputer Lokal (Clone):**
+   - Pada halaman repository yang baru dibuat, klik tombol hijau "Code" dan salin URL yang ditampilkan.
+   - Buka terminal atau Git Bash di komputer Anda.
+   - Navigasikan ke direktori tempat Anda ingin menyimpan salinan repository dengan perintah `cd nama_folder`.
+   - Jalankan perintah `git clone URL_yang_telah_disalin` untuk menyalin repository ke komputer lokal.
+
+4. **Menambahkan Perubahan dan Mengunggah ke GitHub:**
+   - Masuk ke folder repository yang telah disalin dengan perintah `cd nama_repository`.
+   - Tambahkan atau ubah file sesuai kebutuhan.
+   - Setelah melakukan perubahan, jalankan perintah `git add .` untuk menambahkan semua perubahan ke staging area.
+   - Kemudian, lakukan commit dengan perintah `git commit -m "Pesan commit"`; ganti "Pesan commit" dengan deskripsi singkat tentang perubahan yang dilakukan.
+   - Untuk mengunggah perubahan ke GitHub, jalankan perintah `git push origin main`. Pastikan branch yang digunakan sesuai dengan nama branch di repository GitHub Anda (biasanya "main" atau "master").
+
+Penjelasan Istilah:
+- **Repository (Repo):** Tempat penyimpanan proyek yang berisi semua file dan riwayat perubahan.
+- **Clone:** Proses menyalin repository dari GitHub ke komputer lokal.
+- **Commit:** Menyimpan snapshot dari perubahan yang telah dilakukan.
+- **Push:** Mengunggah commit dari komputer lokal ke repository di GitHub.
+- **Staging Area:** Tempat sementara sebelum perubahan dicatat dalam commit.
+
+Kesimpulan:
+Dengan memahami cara membuat akun GitHub, membuat repository, dan menghubungkannya dengan komputer lokal, Anda dapat mulai mengelola proyek menggunakan Git dan GitHub. Ini memungkinkan Anda untuk menyimpan riwayat perubahan, berkolaborasi dengan tim, dan mengamankan kode Anda secara online.
+
+Catatan:
+Ringkasan ini dibuat berdasarkan video dari channel Web Programming UNPAS oleh Sandhika Galih.
